@@ -6,16 +6,13 @@ iKarRental is a PHP-based car rental web application where users can browse, fil
 
 ## Features
 
--**Browse Cars**: Guests can view and filter available cars.
-
--**User Authentication**: Register, log in, and manage bookings.
-
--**Booking System**: Logged-in users can book cars for specific dates.
-
--**Admin Panel**: Manage cars and view all bookings.
+- **Browse Cars**: Guests can view and filter available cars.
+- **User Authentication**: Register, log in, and manage bookings.
+- **Booking System**: Logged-in users can book cars for specific dates.
+- **Admin Panel**: Manage cars and view all bookings.
 
 ## How to Use
 
--**Users**: Register, log in, browse cars, and make bookings.
+1. **Users**: Register, log in, browse cars, and make bookings.
+2. **Admins**: Log in to manage cars and view all reservations.
 
--**Admins**: Log in to manage cars and view all reservations.

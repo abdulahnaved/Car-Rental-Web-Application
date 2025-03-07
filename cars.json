@@ -1,0 +1,127 @@
+[
+    {
+        "id": 1,
+        "brand": "Honda",
+        "model": "Civic",
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "passengers": "5",
+        "daily_price_huf": "16255",
+        "image": "https:\/\/media.ed.edmunds-media.com\/honda\/civic\/2019\/oem\/2019_honda_civic_sedan_touring_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 2,
+        "brand": "Nissan",
+        "model": "Altima",
+        "transmission": "Automatic",
+        "passengers": "5",
+        "fuel_type": "Diesel",
+        "daily_price_huf": "14000",
+        "image": "https:\/\/media.ed.edmunds-media.com\/nissan\/altima\/2016\/oem\/2016_nissan_altima_sedan_25-sr_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 3,
+        "brand": "Volkswagen",
+        "model": "Jetta",
+        "transmission": "Automatic",
+        "fuel_type": "Diesel",
+        "passengers": "5",
+        "daily_price_huf": "13000",
+        "image": "https:\/\/media.ed.edmunds-media.com\/volkswagen\/jetta\/2025\/oem\/2025_volkswagen_jetta_sedan_sel_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 4,
+        "brand": "Subaru",
+        "model": "Impreza",
+        "year": 2012,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_huf": 12000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/subaru\/impreza\/2022\/oem\/2022_subaru_impreza_4dr-hatchback_limited_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 5,
+        "brand": "Ford",
+        "model": "Focus",
+        "year": 2018,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_huf": 13500,
+        "image": "https:\/\/media.ed.edmunds-media.com\/ford\/focus\/2013\/oem\/2013_ford_focus_4dr-hatchback_bev_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 6,
+        "brand": "Tesla",
+        "model": "Model S",
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "passengers": "5",
+        "daily_price_huf": "45000",
+        "image": "https:\/\/media.ed.edmunds-media.com\/tesla\/model-s\/2021\/oem\/2021_tesla_model-s_sedan_plaid_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 7,
+        "brand": "Toyota",
+        "model": "Highlander",
+        "year": 2020,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 7,
+        "daily_price_huf": 20000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/toyota\/highlander\/2020\/oem\/2020_toyota_highlander_4dr-suv_platinum_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 8,
+        "brand": "Chevrolet",
+        "model": "Suburban",
+        "year": 2021,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 8,
+        "daily_price_huf": 24000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/chevrolet\/suburban\/2021\/oem\/2021_chevrolet_suburban_4dr-suv_high-country_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 9,
+        "brand": "Rivian",
+        "model": "R1T",
+        "year": 2022,
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "passengers": 5,
+        "daily_price_huf": 40000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/rivian\/r1t\/2022\/oem\/2022_rivian_r1t_crew-cab-pickup_launch-edition_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 10,
+        "brand": "Tesla",
+        "model": "Model X",
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "passengers": "5",
+        "daily_price_huf": "48500",
+        "image": "https:\/\/media.ed.edmunds-media.com\/tesla\/model-x\/2024\/oem\/2024_tesla_model-x_4dr-suv_plaid_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 12,
+        "brand": "Suzuki",
+        "model": "Alto",
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "passengers": "5",
+        "daily_price_huf": "7000",
+        "image": "https:\/\/assets.adac.de\/image\/upload\/v1\/Autodatenbank\/Fahrzeugbilder\/im01970-1-suzuki-alto.jpg"
+    },
+    {
+        "id": 13,
+        "brand": "Suzuki",
+        "model": "Cultus",
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "passengers": "5",
+        "daily_price_huf": "5000",
+        "image": "https:\/\/autos.hamariweb.com\/images\/carimages\/car_0251_802992.jpg"
+    }
+]

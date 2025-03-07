@@ -1,0 +1,22 @@
+[
+    {
+        "full_name": "Abdullah Naveed",
+        "email": "abd@gmail.com",
+        "password": "abd"
+    },
+    {
+        "full_name": "Khizzer",
+        "email": "khizer@gmail.com",
+        "password": "khi"
+    },
+    {
+        "full_name": "admin",
+        "email": "admin@ikarrental.hu",
+        "password": "123"
+    },
+    {
+        "full_name": "guest",
+        "email": "as@gmail.com",
+        "password": "Jad28152"
+    }
+]
